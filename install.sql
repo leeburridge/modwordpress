@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS `PREFIX_wpbridge` (
+  `table` varchar(30),
+  PRIMARY KEY (`table`)
+) ENGINE=ENGINE_TYPE  DEFAULT CHARSET=utf8;
