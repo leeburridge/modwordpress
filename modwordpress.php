@@ -37,6 +37,8 @@ class modwordpress extends Module
 
 		$this->displayName = $this->l( 'WordPress Bridge' );
 		$this->description = $this->l( 'Display latest WordPress entries. Perfect for news etc.' );
+		
+		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_);
     }
 
 	public function install()
