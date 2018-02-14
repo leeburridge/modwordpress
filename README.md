@@ -5,7 +5,7 @@ Wordpress Bridge for Prestashop 1.4.x
 
 This is my first PrestaShop module. Only took a few hours and I'm quite pleased with it.
 
-Basically this will allow you to incorporate WordPress posts into your PrestaShop in the easiest possible way. Screenshots are attached of what it looks like. Please enjoy and if you use and like this module why not donate using PayPal to lee@leeandgrace.co.uk to keep me making new modules :)
+Basically this will allow you to incorporate WordPress posts into your PrestaShop in the easiest possible way. Screenshots are attached of what it looks like. Please enjoy and if you use and like this module why not donate using PayPal to leeburridge76@gmail.com to keep me making new modules :)
 
 ##Installation
 Install WordPress and configure - Store the tables in the same database as PrestaShop<BR>
