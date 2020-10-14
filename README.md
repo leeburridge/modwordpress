@@ -1,3 +1,4 @@
+# THIS IS NO LONGER DEVELOPED - FEEL FREE TO FORK IT AND DO STUFF THOUGH :)
 # modwordpress
 Wordpress Bridge for Prestashop 1.4.x
 
